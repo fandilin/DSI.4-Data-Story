@@ -1,7 +1,7 @@
 # DSI.4-Data-Story
 
 ###The Data
-I am using datasets of the 2007-2008 tests as well as datasets of cohort diploma rates and cohort postsecondary enrollment.
+I am using datasets of the 2007-2008 tests as well as datasets of cohort diploma rates and cohort postsecondary enrollment. The datasets are from http://www.doe.virginia.gov/statistics_reports/research_data/
 
 ###Hypotheses to Investigate
 1. Is there is a significant difference between diploma rates among school districts?
