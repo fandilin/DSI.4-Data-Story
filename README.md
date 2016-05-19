@@ -12,6 +12,7 @@ I am using datasets of the 2007-2008 tests as well as datasets of cohort diploma
 
 ###Possible Recommendations
 Client: Middle Schools in Virginia
+
 1. How to improve diploma rate -- Different Tests have varying predictive power with respect to diploma rate.
 2. How to imporove postsecondary -- Different Tests have varying predictive power with respect to diploma rate.
 3. Which students are most at risk of dropping out -- Students' dropout rates depends on their backgrounds(gender/race/english proficiency/disability/economic disadvantage)
