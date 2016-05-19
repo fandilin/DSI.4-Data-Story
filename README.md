@@ -15,5 +15,5 @@ Client: Middle Schools in Virginia
 
 1. How to improve diploma rate -- Different Tests have varying predictive power with respect to diploma rate.
 2. How to imporove postsecondary -- Different Tests have varying predictive power with respect to diploma rate.
-3. Which students are most at risk of dropping out -- Students' dropout rates depends on their backgrounds(gender/race/english proficiency/disability/economic disadvantage)
-4. Which students' diploma rates/postsecondary enrollment are most influenced by tests or how to efficiently allocate teaching resources -- Tests' correlations with graduation rate depend on student background (gender/race/english proficiency/disability/economic disadvantage)
+3. Which students are most at risk of dropping out -- Students' dropout rates depends on their backgrounds(gender/race/english proficiency/disability/economic disadvantage).
+4. Which students' diploma rates/postsecondary enrollment are most influenced by tests or how to efficiently allocate teaching resources -- Tests' correlations with graduation rate depend on student background (gender/race/english proficiency/disability/economic disadvantage).
